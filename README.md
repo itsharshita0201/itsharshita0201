@@ -6,11 +6,12 @@ Currently, I work with **SQL Server** and am expanding my skills into the world 
 
 From writing SQL queries to developing ETL workflows, I love experimenting, learning by building, and turning raw data into something useful.
 
-- 🔭 I'm currently working on **end-to-end Data Engineering projects**
+- 🔭 I'm currently working on **End-to-End Data Engineering Projects**
 - 🌱 I'm currently learning **Python, PostgreSQL, Apache Airflow and Data Engineering concepts**
 - 👯 I'm looking to collaborate on **Data Engineering, ETL and Data Pipeline projects**
 - 💬 Feel free to talk to me about **SQL, Databases, Python and Data Engineering**
-- 📫 Reach me at [**Connect on LinkedIn**](https://www.linkedin.com/in/harshita-sahu-hs/)
+- 📫 Email: **[itsharshits0201gmail.com](mailto:itsharshits0201gmail.com)**
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/harshita-sahu-hs/)**
 
 ---
 
@@ -18,27 +19,31 @@ From writing SQL queries to developing ETL workflows, I love experimenting, lear
 
 **💾 Database & Programming**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)" />
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,python](https://skillicons.dev/icons?i=postgres,python)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
-\</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,python" height="40"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 **⚙️ Data Engineering & Orchestration**
 
-\<p>   \<img src="[https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)" /> \</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
 
 **🐳 DevOps & Development Tools**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=docker,git,github](https://skillicons.dev/icons?i=docker,git,github)" /> \</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github" height="40"/>
+</p>
 
 **☁️ Storage & APIs**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge\&logo=minio\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/REST_API-009688?style=for-the-badge](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)" />
-\</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 ---
 
@@ -64,21 +69,24 @@ Building a data-driven project using Python, SQL Server and external APIs to col
 
 ### 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=itsharshita0201&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=itsharshita0201\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165"/>
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=itsharshita0201&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharshita0201\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsharshita0201&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsharshita0201&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
-\<p>
-&#x20; \<a href="[https://www.linkedin.com/in/harshita-sahu-hs/](https://www.linkedin.com/in/harshita-sahu-hs/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshita-sahu-hs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:itsharshits0201gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ *Learning something new, building something useful, and finding better ways to work with data. One project at a time!*
+⭐ *Always learning, always exploring, and always finding new ways to turn data into something meaningful.*
