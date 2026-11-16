@@ -67,14 +67,6 @@ Building a data-driven project using Python, SQL Server and external APIs to col
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsharshita0201&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsharshita0201&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ### 🤝 Connect with Me
 
